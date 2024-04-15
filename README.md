@@ -5,7 +5,7 @@
 - 🔗LinkdIN- https://www.linkedin.com/in/vaibhav-kumar-b366872a6/
 - 💌Mail -vaibhavkumar10112004@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: NASA’s reusable space shuttle in the 1970s had less code than our phones today.
+- ⚡ Fun fact: NASA’s reusable space shuttle in the 1970s had less code than ur phones today.
 
 <!---
 Vaibhavk121/Vaibhavk121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
