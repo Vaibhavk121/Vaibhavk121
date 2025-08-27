@@ -18,8 +18,16 @@
 
 ## 💻 **Tech Arsenal**
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript,html,css,react,tailwind,flask,nodejs,express,mongodb,mysql,postgres,git,docker,firebase,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript" height="55" />
 </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs,express" height="55" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flask,mongodb,mysql,postgres,firebase,tensorflow,pytorch,docker,git" height="55" />
+</p>
+
+
 
 ---
 
