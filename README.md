@@ -44,7 +44,6 @@
 | [**PANIC**](#) | React Native, Node.js, MongoDB | Disaster Survival App with AI Assistant, Offline Guide, SOS |
 | [**AI Agent - Mission Control**](#) | Flask, Gemini API | Agentic AI for managing personal goals like a mission |
 | [**FlowCraft**](#) | React, Tailwind | Algo Visualizer for Learning DSA with animations |
-| [**Merchant Assistant AI**](#) | AI Agents, Web | Automates offers, tasks for businesses |
 
 📌 *More in my [Repositories](https://github.com/Vaibhavk121)*  
 
