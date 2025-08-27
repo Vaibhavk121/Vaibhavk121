@@ -1,79 +1,60 @@
-<h1 align="center">Hey 😎 What's Coding?</h1>
+<h1 align="center">Hey 👋, I'm VK 🚀</h1>
+<h3 align="center">Full-Stack Developer | Mobile App Dev | AI/ML Enthusiast</h3>
 
-###
+<p align="center">
+  <i>"Turning ideas into code, and code into impact."</i>
+</p>
 
-<p align="left">Debugging is like being a detective in a crime movie where you’re also the murderer.</p>
+---
 
-###
+### ⚡ **About Me**
+- 💻 Tech Stack: **Full-Stack | Mobile Apps | AI/ML**  
+- 🌍 Building **Web Apps, Mobile Apps, AI-powered tools, and Scalable APIs**  
+- 🎯 Goal: **Become an SDE/AI Engineer & Build Real-World Impactful Products**  
+- 📚 Currently mastering **DSA | System Design | Generative AI**  
+- ⚡ Fun Fact: *I’ve created more bugs than GitHub Issues can handle*  
 
-<h2 align="left">About me</h2>
+---
 
-###
+## 💻 **Tech Arsenal**
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript,html,css,react,tailwind,flask,nodejs,express,mongodb,mysql,postgres,git,docker,firebase,tensorflow,pytorch" />
+</p>
 
-<p align="left">✨ Creating bugs since 2004<br>📚 I'm currently learning DSA, Web Dev, AI/ML and other fancy words if exists<br>🎯 Goals: ♾️<br>🎲 Fun fact: The first computer bug was a literal bug!</p>
+---
 
-###
+### 📱 **Mobile Development**
+- ✅ **React Native + Expo** for cross-platform apps  
+- ✅ **Bluetooth Mesh Networking**, **Offline Mode**, **SOS Systems**  
+- ✅ Published hackathon projects with **AI Voice Assistants**  
 
-<h2 align="center">Coding Stuff</h2>
+---
 
-###
+## 🚀 **Featured Projects**
+| Project | Tech Stack | Description |
+|---------|-----------|-------------|
+| [**PANIC**](#) | React Native, Node.js, MongoDB | Disaster Survival App with AI Assistant, Offline Guide, SOS |
+| [**AI Agent - Mission Control**](#) | Flask, Gemini API | Agentic AI for managing personal goals like a mission |
+| [**FlowCraft**](#) | React, Tailwind | Algo Visualizer for Learning DSA with animations |
+| [**Merchant Assistant AI**](#) | AI Agents, Web | Automates offers, tasks for businesses |
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-</div>
+📌 *More in my [Repositories](https://github.com/Vaibhavk121)*  
 
-###
+---
 
-<h2 align="center">Tools that i use</h2>
+## 📊 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vaibhavk121&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhavk121&layout=compact&theme=tokyonight"/>
+</p>
 
-###
+---
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-</div>
+## 🔗 **Connect & Hire Me**
+<p align="center">
+  <a href="https://www.linkedin.com/in/vaibhav-kumar-b366872a6/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"></a>
+  <a href="https://portfolio-vaibhavk121s-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?&style=for-the-badge&logoColor=white" height="40"></a>
+  <a href="mailto:vaibhavkumar10112004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"></a>
+</p>
 
-###
-
-<br clear="both">
-
-<h2 align="center">Connect me on :</h2>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
-</div>
-
-###
+💼 **Resume:** [Click Here]([https://your-resume-link](https://drive.google.com/file/d/1kH8J83DOhSdOCaYtjSDSS7C9UvSxoCEK/view?usp=sharing))  
